@@ -68,7 +68,7 @@ Essas funcionalidades e técnicas tornam este projeto ideal para quem deseja evo
 
 ---
 
-## 📷 Demonstração (opcional)
+## 📷 Demonstração
 
 > [Demo do Projeto](assets/to-do-avanced.gif)
 
